@@ -1,5 +1,5 @@
 ---
-title: Yo Yo Avalon
+title: henk is gangsta
 subtitle: Support sustainable farming while enjoying a cup
 image: /img/home-jumbotron.jpg
 blurb:
